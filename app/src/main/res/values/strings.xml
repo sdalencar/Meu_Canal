@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meu Canal</string>
+    <string name="meu">Meu Canal do YouTube</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="titulo">Título</string>
+    <string name="descri_o">Descrição</string>
+    <string name="data">Data</string>
+    <string name="pesquisar">Pesquisar</string>
+</resources>
